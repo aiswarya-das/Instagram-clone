@@ -1,2 +1,3 @@
 # Instagram-clone
-clone of the instagram login/signup page.
+Clone of the instagram login/signup page.
+* Created using HTML and CSS.
